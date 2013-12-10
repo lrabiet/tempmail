@@ -29,3 +29,9 @@ INSTALL
 6. Set a MX DNS record for your domain(s)
 
 ...and that's it. If you need help, you'll find me on [irc.hackint.org](irc://irc.hackint.org/). Just ```/msg zakx```.
+
+LEGAL
+=====
+
+what are the legal constraints to use such system?
+
